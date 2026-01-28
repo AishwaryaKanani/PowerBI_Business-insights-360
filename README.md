@@ -100,7 +100,7 @@ Created **5 different report views**, each serving different stakeholders.
 ### Home Page
 - Navigation to all views
 - Summary of each page for quick access
-![_Home_page_](https://github.com/AishwaryaKanani/PowerBI_AtliQ-Mart-Supply-Chain-Analysis/blob/main/Resources/Data_model.png)
+![_Home_page_](https://github.com/AishwaryaKanani/PowerBI_Business-insights-360/blob/main/Resources/Home_page.png)
 ---
 
 ## Finance View
@@ -109,6 +109,7 @@ Created **5 different report views**, each serving different stakeholders.
 - Top-performing and bottom-performing products and customers
 - Product segment performance across regions
 - **Year-on-Year comparison** of P & L in a single view
+![_Finance_view_](https://github.com/AishwaryaKanani/PowerBI_Business-insights-360/blob/main/Resources/Finance%20view.png)
 
 A button displays:
 - **Net Sales vs Last Year**
@@ -125,7 +126,7 @@ This helps in **better decision-making**.
   - Customer
   - Region
 - Includes the same filters as Finance View for in-depth analysis.
-
+![_Sales_view_](https://github.com/AishwaryaKanani/PowerBI_Business-insights-360/blob/main/Resources/Sales%20view.png)
 ---
 
 ## Marketing View
@@ -140,7 +141,7 @@ Helps marketing teams:
 - Decide marketing budgets
 - Identify potential customers and markets
 - Understand growth opportunities
-
+![_Marketing_view_](https://github.com/AishwaryaKanani/PowerBI_Business-insights-360/blob/main/Resources/Marketing%20view.png)
 ---
 
 ## Supply Chain View
@@ -152,7 +153,7 @@ Example Insight:
 - Forecast accuracy in Q1 2020 was **80.26%**
 - Compared to **85.92% in Q1 2019**
 - **Accessories** segment suffered the most (**51.50%**)
-
+![_Supply_view_](https://github.com/AishwaryaKanani/PowerBI_Business-insights-360/blob/main/Resources/Supplychain%20View.png)
 ---
 
 ## Executive View
@@ -169,7 +170,7 @@ A **consolidated report** with KPIs like:
 This view:
 - Saves time for senior stakeholders
 - Provides high-level insights without deep dives
-
+![_Executive_view_](https://github.com/AishwaryaKanani/PowerBI_Business-insights-360/blob/main/Resources/Executive%20view.png)
 ---
 
 ## Tools Used In Project
